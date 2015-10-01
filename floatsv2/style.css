@@ -1,0 +1,56 @@
+
+#wrapper
+{
+	width:960px;
+	height:900px;
+	background:black;
+	margin:0 auto;
+} 
+
+#header
+{
+width:100%;
+height:15%;
+background:red;
+}
+
+#middle
+{
+width:100%;
+height:70%;
+background:blue;}
+
+#gary
+{
+width:33%;
+height:100%;
+background:green;	
+float:left;
+}
+
+#emma
+{
+width:33%;
+height:100%;
+background:white;	
+float:left;
+}
+
+#sean
+{
+width:34%;
+height:100%;
+background:orange;
+float:left;	
+}
+
+
+
+
+#footer
+{
+width:100%;	
+height:15%;
+background:pink;	
+}
+
